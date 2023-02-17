@@ -15,7 +15,7 @@ order: 3
 Virtual reality (VR) is a technology that uses head-mounted headsets with
 displays to generate the realistic images, sounds, and other sensations to put
 users into an immersive virtual environment. VR allows us to create unbounded
-worlds that people can walk around and interact with using their hands, to feel
+worlds that people can walk around and interact using their hands, to feel
 as if they were transported to another place.
 
 ### What Are the Differences Between Headsets?
